@@ -1,6 +1,6 @@
 module github.com/felixz92/gopass-to-1password
 
-go 1.21.4
+go 1.22.1
 
 require (
 	github.com/1Password/connect-sdk-go v1.5.3
